@@ -1,14 +1,17 @@
-Form Validator 
+# Form Validator 
+
 Simple client side form validation. Check required, length, email and password match
 
-Project Specifications
-Create form UI
-Show error messages under specific inputs
+# Project Specifications
 
-checkRequired() to accept array of inputs
+*Create form UI
 
-checkLength() to check min and max length
+*Show error messages under specific inputs
 
-checkEmail() to validate email with regex
+*checkRequired() to accept array of inputs
 
-checkPasswordsMatch() to match confirm password
+*checkLength() to check min and max length
+
+*checkEmail() to validate email with regex
+
+*checkPasswordsMatch() to match confirm password
