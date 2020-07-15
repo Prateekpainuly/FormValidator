@@ -4,9 +4,9 @@ Simple client side form validation. Check required, length, email and password m
 
 # Project Specifications
 
-*Create form UI
+*Created form UI
 
-*Show error messages under specific inputs
+*Shows error messages under specific inputs
 
 *checkRequired() to accept array of inputs
 
